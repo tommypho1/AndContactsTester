@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLayoutPreviewToolWindow">
+    <option name="state">
+      <GlobalState />
+    </option>
+  </component>
   <component name="AndroidLayouts">
     <shared>
       <config />
@@ -72,7 +77,7 @@
       <file leaf-file-name="AndContacts.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/example/andcontactstester/AndContacts.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="141" column="46" selection-start="4912" selection-end="6335" vertical-scroll-proportion="0.0" vertical-offset="2380" max-vertical-offset="3026">
+            <state line="132" column="25" selection-start="4912" selection-end="6335" vertical-scroll-proportion="0.0" vertical-offset="1253" max-vertical-offset="2210">
               <folding />
             </state>
           </provider>
@@ -81,7 +86,19 @@
       <file leaf-file-name="AndcontactstesterActivity.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/example/andcontactstester/AndcontactstesterActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="53" column="0" selection-start="1643" selection-end="1643" vertical-scroll-proportion="0.0" vertical-offset="365" max-vertical-offset="1207">
+            <state line="42" column="54" selection-start="1319" selection-end="1423" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1207">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contactpicker.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/layout/contactpicker.xml">
+          <provider editor-type-id="android-designer">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="12" selection-start="0" selection-end="381" vertical-scroll-proportion="-1.36" vertical-offset="0" max-vertical-offset="272">
               <folding />
             </state>
           </provider>
@@ -90,7 +107,7 @@
       <file leaf-file-name="ContactPicker.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/example/andcontactstester/ContactPicker.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="8" selection-start="896" selection-end="896" vertical-scroll-proportion="0.37362638" vertical-offset="0" max-vertical-offset="819">
+            <state line="16" column="17" selection-start="415" selection-end="1890" vertical-scroll-proportion="0.124847" vertical-offset="0" max-vertical-offset="817">
               <folding />
             </state>
           </provider>
@@ -99,7 +116,7 @@
       <file leaf-file-name="AndroidManifest.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="12" selection-start="1397" selection-end="1397" vertical-scroll-proportion="0.0" vertical-offset="22" max-vertical-offset="816">
+            <state line="35" column="24" selection-start="1115" selection-end="1433" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="816">
               <folding />
             </state>
           </provider>
@@ -188,6 +205,38 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="andcontactstester" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AndContactsTester" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AndContactsTester" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AndContactsTester" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AndContactsTester" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layout" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -328,6 +377,7 @@
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298217" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -439,30 +489,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="12" selection-start="1397" selection-end="1397" vertical-scroll-proportion="0.0" vertical-offset="22" max-vertical-offset="816">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/example/andcontactstester/AndContacts.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="141" column="46" selection-start="4912" selection-end="6335" vertical-scroll-proportion="0.0" vertical-offset="1431" max-vertical-offset="2686">
+        <state line="132" column="25" selection-start="4912" selection-end="6335" vertical-scroll-proportion="0.0" vertical-offset="1253" max-vertical-offset="2210">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/example/andcontactstester/AndcontactstesterActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="53" column="0" selection-start="1643" selection-end="1643" vertical-scroll-proportion="0.0" vertical-offset="365" max-vertical-offset="1207">
+        <state line="42" column="54" selection-start="1319" selection-end="1423" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1207">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/contactpicker.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="12" selection-start="0" selection-end="381" vertical-scroll-proportion="-1.36" vertical-offset="0" max-vertical-offset="272">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="24" selection-start="1115" selection-end="1433" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="816">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/example/andcontactstester/ContactPicker.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="8" selection-start="896" selection-end="896" vertical-scroll-proportion="0.37362638" vertical-offset="0" max-vertical-offset="819">
+        <state line="16" column="17" selection-start="415" selection-end="1890" vertical-scroll-proportion="0.124847" vertical-offset="0" max-vertical-offset="817">
           <folding />
         </state>
       </provider>
